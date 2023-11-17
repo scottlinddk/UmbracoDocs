@@ -10,7 +10,7 @@ This page is a work in progress.&#x20;
 
 This provides a few methods to easily connect with Backoffice, giving you the ability to:
 
-* Consume a Contex — [Learn more about Consuming Contexts](../context-api/)
+* Consume a Context — [Learn more about Consuming Contexts](../context-api/)
 * Provide Context — TBD
 * Observe a State — [Learn more on States](../states.md#observe-a-state-via-umbraco-element-or-umbraco-controller)
 * Localization — [Learn about Localization](../localization/use-localizations.md#localize-controller)
